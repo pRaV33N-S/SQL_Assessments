@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\obj\Debug\Assessment07.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\obj\Debug\Assessment07.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\obj\Debug\Assessment07.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\bin\Debug\Assessment07.exe.config
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\bin\Debug\Assessment07.exe
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\bin\Debug\Assessment07.pdb
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\obj\Debug\Assessment07.exe
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment07\obj\Debug\Assessment07.pdb
