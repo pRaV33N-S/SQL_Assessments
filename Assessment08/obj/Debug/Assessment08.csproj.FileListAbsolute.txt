@@ -1,0 +1,11 @@
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\bin\Debug\Assessment08.exe.config
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\bin\Debug\Assessment08.exe
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\bin\Debug\Assessment08.pdb
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\bin\Debug\EntityFramework.dll
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\bin\Debug\EntityFramework.xml
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\obj\Debug\Assessment08.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\obj\Debug\Assessment08.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\obj\Debug\Assessment08.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\obj\Debug\Assessment08.csproj.CopyComplete
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\obj\Debug\Assessment08.exe
+D:\Raven\Practice Exercise\Phase02\SQL Assessments\Assessment08\obj\Debug\Assessment08.pdb
