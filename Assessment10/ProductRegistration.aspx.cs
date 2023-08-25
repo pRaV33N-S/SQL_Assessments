@@ -26,10 +26,18 @@ namespace Assessment10
         }
         protected void Btn_Click(object source,EventArgs e)
         {
-            Label.Text = ProductName.Text;
-            Label.Text += Category.SelectedValue;
-            Label.Text += Price.Text;
-            Label.Text += Cal.SelectedDate;
+            if (Page.IsValid)
+            {
+                Label.Text = "Product Name: " + ProductName.Text + "<br />";
+                Label.Text += "Category: " + Category.SelectedValue + "<br />";
+                Label.Text += "Price: " + Price.Text + "<br />";
+                Label.Text += "Description: " + Description.Text + "<br />";
+                Label.Text += "Release Date: " + Cal.SelectedDate;
+            }
+            else
+            {
+                Label.Text = "Form still contains some errors!!!...";
+            }
             
         }
     }
