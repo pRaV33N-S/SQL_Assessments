@@ -16,5 +16,6 @@ namespace Assignment12.Models
         public string Content { get; set; }
         public DateTime PublicationDate { get; set; }
         public string PostId { get; set; }
+
     }
 }
